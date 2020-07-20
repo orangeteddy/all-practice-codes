@@ -6,7 +6,7 @@ def addall(x):
         minus = minus + 1
     return total
 
-facnum = abs(int(input("Input an integer")))
-result = addall(facnum)
-print("The sum of all numbers between 0 and the absolute value of your input,", facnum, "is", result)
+num = abs(int(input("Input an integer")))
+result = addall(num)
+print("The sum of all numbers between 0 and the absolute value of your input,", num, "is", result)
 
