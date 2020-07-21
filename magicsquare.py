@@ -1,4 +1,4 @@
-print("this program ")
+print("this program draws a 3 x 3 magic squares where all the vertical, horizontal, and diagonal lines add up to the same number.")
 
 cen = int(input("Choose a number that's going to be in the center: "))
 print(" ")
