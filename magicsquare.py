@@ -1,4 +1,4 @@
-print("this program draws a 3 x 3 magic squares where all the vertical, horizontal, and diagonal lines add up to the same number.")
+print("This program draws a 3 x 3 magic square where all the vertical, horizontal, and diagonal lines add up to the same number.")
 
 cen = int(input("Choose a number that's going to be in the center: "))
 print(" ")
@@ -6,7 +6,7 @@ print(" ")
 leng = len(str(cen))
 
 while cen < 4 or leng > 4:
-    print("input error, try again. The number can't be less than 4 or greater than 9999")
+    print("Input error! Try again. The number can't be less than 4 or greater than 9999")
     print(" ")
     cen = int(input("Choose a number that's going to be in the center: "))
     print()
