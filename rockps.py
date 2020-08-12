@@ -1,6 +1,4 @@
-a = 1
-
-while a == 1:
+while True:
     user = input("Rock, paper, or scissors? ")
 
     import random
