@@ -56,3 +56,4 @@ for l in (range(0, 125, 3)):
  #draws the spiral
 
 print("No need to thank me.") 
+wn.exitonclick()
