@@ -54,3 +54,5 @@ for l in (range(0, 125, 3)):
     bob.forward(l)
     bob.left(180 - ((choice * 180 - 360) / choice))
  #draws the spiral
+
+print("No need to thank me.") 
