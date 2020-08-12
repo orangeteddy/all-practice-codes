@@ -34,3 +34,4 @@ def DrawHeart (turtle_name, turn):
 
 DrawHeart (ava, ava.left)
 DrawHeart (bob, bob.right)
+cccccc
