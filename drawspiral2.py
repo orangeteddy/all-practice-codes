@@ -11,3 +11,4 @@ bob.shape("turtle")
 
 side = int(input("number of sides: "))
 DrawSpiral(bob, side)
+wn.exitonclick()
